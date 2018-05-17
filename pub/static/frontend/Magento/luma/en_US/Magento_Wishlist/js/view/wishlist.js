@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magentoquick/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js
