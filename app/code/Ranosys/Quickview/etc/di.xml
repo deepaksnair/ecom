@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+   <type name="Magento\Catalog\Block\Product\ListProduct">
+        <plugin name="ranosys-quickview-product-listing"
+                type="Ranosys\Quickview\Plugin\ProductList"
+                sortOrder="10"/>
+    </type>
+</config>

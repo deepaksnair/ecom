@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magentoquick/lib/web/es6-collections.js
